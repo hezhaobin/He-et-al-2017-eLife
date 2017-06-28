@@ -1,0 +1,9 @@
+Sample,Pho80,Pho4,Pho2,Condition,GT
+O1,del80,del4,Cgla2,hiPi,del4.Cgla2
+O2,del80,del4,Cgla2,hiPi,del4.Cgla2
+N1,del80,Cgla4,Cgla2,hiPi,Cgla4.Cgla2
+N2,del80,Cgla4,Cgla2,hiPi,Cgla4.Cgla2
+S1,del80,del4,del2,hiPi,del4.del2
+S2,del80,del4,del2,hiPi,del4.del2
+Q1,del80,Cgla4,del2,hiPi,Cgla4.del2
+Q2,del80,Cgla4,del2,hiPi,Cgla4.del2
